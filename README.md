@@ -1,5 +1,7 @@
 # TestStore
 
+A test project based on [this course](https://www.youtube.com/watch?v=Kbauf9IgsC4) to learn Angular. This project is deployed using Cloudflare Pages and can be viewed at [https://test-store.pages.dev/](https://test-store.pages.dev/). This project uses Angular, Tailwind CSS, and Angular Material components.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.1.
 
 ## Development server
